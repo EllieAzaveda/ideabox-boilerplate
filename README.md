@@ -1,4 +1,8 @@
 # Ideabox Group Project
+#### a web app to store, organize, and display user-submitted "idea cards"!
+
+- [GitHub Repo] (https://github.com/EllieAzaveda/ideabox-boilerplate)
+- [GitHub Page] (https://ellieazaveda.github.io/ideabox-boilerplate)
 
 Every developer has more ideas than time. As David Allen likes to say "the human brain is for creating ideas, not remembering them." In this project, we'll be building an application that records and archives our ideas (good and bad alike).
 
@@ -13,3 +17,4 @@ Throughout the project, one of our focuses will be on providing a fluid and resp
 * Craft code with clean style, using small functions that show trends toward DRYness and SRP
 
 The project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/ideabox-group.html)
+
