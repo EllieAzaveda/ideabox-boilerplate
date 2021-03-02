@@ -25,7 +25,9 @@ The project spec & rubric can be found [here](https://frontend.turing.io/project
 - 
 
 #### Want to contribute?
-- 
+- Interested in contributing to Ideabox?
+- Fork this project and clone to your machine.
+- Create a pull request, and one of our project managers will get back to you with a code review!
 
 #### Technologies Used
 - JavaScript
@@ -33,19 +35,46 @@ The project spec & rubric can be found [here](https://frontend.turing.io/project
 - CSS
 
 #### Project Reflection
+Pete: 
+
+Ellie: 
+
+Pat: 
+
 
 ##### Challenges
+Pete: 
+
+Ellie: 
+
+Pat: 
+
 
 ##### Overall Impressions
+Pete: 
+
+Ellie: 
+
+Pat: 
+
 
 #### Future Features
+Pete: 
+
+Ellie: 
+
+Pat: 
+
 
 #### Credits
 ##### Co-Contributors
 - [🦥 Peter Muellerleile](https://github.com/pcmueller)
-- []
+- [🧚 Ellie Azaveda](https://github.com/EllieAzaveda)
+- [🥔 Pat Findley](https://github.com/Patfindley)
 
 ##### Mentors
+- [] 
+- [] 
 
 ##### Project Manager
 - [👩🏻‍🏫 Hannah Hudson](https://github.com/hannahhch)
