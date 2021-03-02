@@ -18,3 +18,39 @@ Throughout the project, one of our focuses will be on providing a fluid and resp
 
 The project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/ideabox-group.html)
 
+#### Why was this project created?
+- 
+
+#### How does this work?
+- 
+
+#### Want to contribute?
+- 
+
+#### Technologies Used
+- JavaScript
+- HTML
+- CSS
+
+#### Project Reflection
+
+##### Challenges
+
+##### Overall Impressions
+
+#### Future Features
+
+#### Credits
+##### Co-Contributors
+- [🦥 Peter Muellerleile](https://github.com/pcmueller)
+- []
+
+##### Mentors
+
+##### Project Manager
+- [👩🏻‍🏫 Hannah Hudson](https://github.com/hannahhch)
+
+**************************************************************************
+
+###### This project was created for [Turing School of Software and Design](https://turing.io/)
+###### 02MARCH2021
